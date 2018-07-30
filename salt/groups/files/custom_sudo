@@ -1,0 +1,6 @@
+
+# Custom sudoers for XYZ
+## File Managed by Saltstack
+### ------------------------
+
+%sysadmin	ALL = (ALL) NOPASSWD: ALL
